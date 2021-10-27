@@ -8,7 +8,7 @@ Worked with HTML and CSS to create a dashboard showing off the analysis that was
 
 Created a visualization dashboard website using visualizations created in a past projectg. Specifically, plotted [weather data](Resources/cities.csv).
 
-In building this dashboard, created individual pages for each plot and a means by which can navigate between them. These pages contain the visualizations and their corresponding explanations. Created a landing page, page where can see a comparison of all of the plots, and another page where can view the data used to build them.
+In building this dashboard, created individual pages for each plot and a means by which can navigate between them. These pages contain the visualizations and their corresponding explanations. Created a landing page, page where can see a comparison of all of the plots.
 
 ### Website 
 
