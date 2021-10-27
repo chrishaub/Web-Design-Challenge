@@ -12,19 +12,19 @@ In building this dashboard, created individual pages for each plot and a means b
 
 ### Website 
 
-The website consists of 5 pages total, including:
+The website consists of 2 pages, including:
 
 * A [landing page](#landing-page) containing:
   * An explanation of the project.
-  * Links to each visualizations page. A sidebar containing preview images of each plot, and clicking an image takes the user to that visualization.
-* Four [visualization pages](#visualization-pages), each with:
+  * Links to a visualizations page. A sidebar containing preview images of each plot, and clicking an image takes the user to that visualization.
+*  [visualization pages](#visualization-pages):
   * A descriptive title and heading tag.
   * The plot/visualization itself for the selected comparison.
   * A paragraph describing the plot and its significance.
 
 The website, at the top of every page, have a navigation menu that:
 
-* Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
-* Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
+* Has the name of the site on the left of the nav which allows users to return to the landing page.
+* Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to the visualization page.
 
 
