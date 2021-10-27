@@ -17,7 +17,7 @@ The website consists of 2 pages, including:
 * A [landing page](#landing-page) containing:
   * An explanation of the project.
   * Links to a visualizations page. A sidebar containing preview images of each plot, and clicking an image takes the user to that visualization.
-*  [visualization pages](#visualization-pages):
+*  [visualization page](#visualization-page):
   * A descriptive title and heading tag.
   * The plot/visualization itself for the selected comparison.
   * A paragraph describing the plot and its significance.
