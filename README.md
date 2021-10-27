@@ -4,8 +4,6 @@
 
 Worked with HTML and CSS to create a dashboard showing off the analysis that was completed.
 
-![Images/landingResize.png](Images/landingResize.png)
-
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
 Created a visualization dashboard website using visualizations created in a past projectg. Specifically, plotted [weather data](Resources/cities.csv).
